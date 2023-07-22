@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Save</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First name</string>
+    <string name="yes">yes</string>
+    <string name="No">No</string>
+    <string name="deleted_success">item Deleted successfully</string>
+    <string name="update_success">Item updated successfully</string>
+    <string name="are_you_sure_to_delete_item">Are you sure you want to delete this item ?</string>
+    <string name="are_you_sure_to_edit_item">Are you sure you want to edit this item ?</string>
+</resources>
